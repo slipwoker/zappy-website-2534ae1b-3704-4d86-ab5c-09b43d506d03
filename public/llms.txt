@@ -1,0 +1,103 @@
+# NUREVIA — Generative Engine Optimization Map
+
+> יודע לבנות גם באנגלית
+
+---
+
+## Pages
+
+### Home
+https://nurevia-2534ae1b.zappy5.app
+Step into NUREVIA&#39;s world of luxury natural wellness products. From migraine relief to home spa rituals, experience exclusive botanical solutions crafted for your calm. Explore the collection now.
+
+### About
+https://nurevia-2534ae1b.zappy5.app/about
+Meet NUREVIA, where luxury meets nature. We create exclusive wellness solutions for stress relief, better sleep, and migraine comfort. Discover the passion behind every botanical blend.
+
+### Gallery
+https://nurevia-2534ae1b.zappy5.app/gallery
+Browse the NUREVIA gallery and see luxury natural wellness in action. Cooling migraine masks, serene home spa moments, and botanical beauty await. Get inspired to unwind.
+
+### Contact
+https://nurevia-2534ae1b.zappy5.app/contact
+Ready for relief? Connect with NUREVIA for migraine support, sleep solutions, or personalized luxury wellness guidance. Your journey to natural calm starts with a message.
+
+### Products
+https://nurevia-2534ae1b.zappy5.app/products
+Our Products - NUREVIA
+
+### Cart
+https://nurevia-2534ae1b.zappy5.app/cart
+Your Cart
+
+### Checkout
+https://nurevia-2534ae1b.zappy5.app/checkout
+Checkout
+
+### Login
+https://nurevia-2534ae1b.zappy5.app/login
+Customer Login
+
+### Account
+https://nurevia-2534ae1b.zappy5.app/account
+My Account
+
+### Order Success
+https://nurevia-2534ae1b.zappy5.app/order-success
+Thank you for your order
+
+### Product Detail
+https://nurevia-2534ae1b.zappy5.app/product/:slug
+Product Details - NUREVIA
+
+### Category
+https://nurevia-2534ae1b.zappy5.app/category/:slug
+Products - NUREVIA
+
+### Thank You | NUREVIA
+https://nurevia-2534ae1b.zappy5.app/thank-you
+NUREVIA - Thank You | NUREVIA
+
+## Legal & Policy
+
+### Privacy Policy
+https://nurevia-2534ae1b.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://nurevia-2534ae1b.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://nurevia-2534ae1b.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About NUREVIA
+יודע לבנות גם באנגלית
+
+## Target Audience
+- קהל היעד של NUREVIA: גברים ונשים בגילאי 35–75, בעלי הכנסה בינונית-גבוהה ומעלה, המחפשים פתרונות טבעיים ואיכותיים לשיפור איכות החיים והבריאות. אנשים שמעריכים חדשנות, עיצוב יוקרתי, מוצרים פרימיום וחוויית שימוש יוצאת דופן. בנוסף, המותג פונה גם למלונות יוקרה, ספא, מרכזי Wellness, קליניקות, מפיצים ושותפים עסקיים בארץ ובעולם.
+- עבור NUREVIA, כדאי להגדיר את קהל היעד כך: ⸻ Primary Target Audience Adults aged 35–75 with medium-to-high income who value health, wellness, quality of life, and premium products. They are willing to invest in innovative natural wellness solutions and appreciate luxury design, exclusivity, and exceptional customer experience. Ideal Customer Profile * Professionals and business owners * Executives and entrepreneurs * Health-conscious consumers * Wellness and spa enthusiasts * Luxury lifestyle consumers * People seeking natural wellness experiences * Individuals looking for premium gifts * High-net-worth individuals ⸻ Secondary Target Audience * Luxury hotels and resorts * High-end spas and wellness centers * Boutique wellness clinics * Premium fitness clubs * Interior designers and architects * Luxury residential projects * Corporate wellness programs * International distributors ⸻ Geographic Focus * United States * Europe * United Kingdom * United Arab Emirates * Singapore * Australia * Israel ⸻ Brand Positioning NUREVIA is positioned as a global premium wellness brand, combining sophisticated design, exclusive proprietary natural formulations, and an elevated luxury experience for discerning customers. חשוב: בהתאם למה שכבר גיבשנו עבור NUREVIA, עדיף להציג את הפורמולה כ”proprietary natural formula” או “exclusive proprietary formula” ולהימנע מניסוחים מוחלטים כמו “the only formula in the world”, אלא אם יש לכך ביסוס משפטי או קנייני מתאים. כך תשמור על מסר חזק וגם בטוח מבחינה שיווקית ומשפטית.
+
+## Industry
+General
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://nurevia-2534ae1b.zappy5.app/sitemap.xml
+- Robots: https://nurevia-2534ae1b.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://nurevia-2534ae1b.zappy5.app/llms-full.txt
+- Products (JSON): https://nurevia-2534ae1b.zappy5.app/products.json
+- Products (Google Merchant RSS): https://nurevia-2534ae1b.zappy5.app/product-feed.xml
